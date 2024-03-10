@@ -1,4 +1,4 @@
-# Plots
+# Fehlende Plots
 Da die interaktiven Plots der ```Plotly```-Bibliothek leider nicht in eine ```.ipynb```-Datei übertragen werden können, sind die Outputs der Plots als Screenshot im Folgenden angehängt.
 
 ## Plot zu Question 5
